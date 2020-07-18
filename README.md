@@ -1,2 +1,2 @@
 # Assignment
-Day 1 Assignement
+Day 1 Assignment
